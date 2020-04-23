@@ -7,6 +7,8 @@ The following notebook displays various knowledsge of tools learned over five mo
 
 - For the full report, select 'Capstone-Outline.docx'.
 
+- **Please note:** Some scripts cannot be re-run due to API User authentication. Graphs will be added by picture soon. The readme will be updated. 
+
 ## **Libraries used in this report include:**
 * Numpy
 * Pandas
